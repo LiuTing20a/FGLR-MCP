@@ -20,15 +20,14 @@ For details such as parameter setting, please refer to [<a href="https://authors
 ## Citation
 
 ```
-  @article{liu2023representative,
-  title={Representative Coefficient Total Variation for Efficient Infrared Small Target Detection},
-  author={Liu, Ting and Yang, Jungang and Li, Boyang and Wang, Yingqian and An, Wei},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={2023},
-  publisher={IEEE}
+@article{liu2024graph,
+  title={Graph Laplacian regularization for fast infrared small target detection},
+  author={Liu, Ting and Liu, Yongxian and Yang, Jungang and Li, Boyang and Wang, Yingqian and An, Wei},
+  journal={Pattern Recognition},
+  pages={111077},
+  year={2024},
+  publisher={Elsevier}
 }
-
 ```
-
 ## Contact
 **Any question regarding this work can be addressed to [liuting@nudt.edu.cn](liuting@nudt.edu.cn).**
