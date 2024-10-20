@@ -17,7 +17,7 @@ Run demo_WSNMSTIPTLT_FGLRMCP.
 ## Details
 
 For details such as parameter setting, please refer to [<a href="https://ieeexplore.ieee.org/abstract/document/10286118">pdf</a>].
-
+For details such as parameter setting, please refer to [<a href="https://authors.elsevier.com/c/1jyo377nKoMbW">pdf</a>].
 ## Citation
 
 ```
